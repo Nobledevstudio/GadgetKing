@@ -62,7 +62,7 @@ import p_61 from  './p_61.jpg'
 import p_62 from  './p_62.jpg'
 import p_63 from  './p_63.jpg'
 import p_64 from  './p_64.jpg'
-import p_65 from './p_65.jpg';
+import p_65 from  './p_65.jpg'
 import p_66 from  './p_66.jpg'
 import p_67 from  './p_67.jpg'
 import p_68 from  './p_68.jpg'
