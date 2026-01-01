@@ -4,8 +4,8 @@
 GadgetKing is a modern, responsive e-commerce web application built with React.js. It enables users to browse, filter, and purchase smartphones, laptops, and accessories. The app features dynamic filtering, sorting, and a fully functional shopping cart with product variant options.This project showcases React Context API, React Router, and Tailwind CSS in a real-world frontend e-commerce scenario.
 
 ## Live Demo
-(Add your deployed site URL here)
-GadgetKing Live
+(https://gadgetkingstore.netlify.app/)
+GadgetKing Live Site
 
 ## Features
 1. Category Browsing: Navigate directly to Smartphones, Laptops, or Accessories.
