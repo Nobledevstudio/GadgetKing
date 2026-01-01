@@ -24,11 +24,11 @@ GadgetKing Live Site
 
 ## Technologies Used
 
-1.Frontend: React.js, Tailwind CSS
-2.Routing: React Router DOM
-3.State Management: React Context API
-4.Icons: Lucide React
-6.Currency Formatting: Intl.NumberFormat (NGN)
+1. Frontend: React.js, Tailwind CSS
+2. Routing: React Router DOM
+3 . State Management: React Context API
+4 . Icons: Lucide React
+6. Currency Formatting: Intl.NumberFormat (NGN)
 
 ## gadgetking/
  └─ frontend/
@@ -46,7 +46,9 @@ GadgetKing Live Site
 
 2. cd gadgetking/frontend
 
-3. npm run dev 
+3. npm install
+
+4. npm run dev 
 
 ## Deployment
 
@@ -54,10 +56,9 @@ npm run build
 
 You can deploy the build/ folder on platforms like Vercel, Netlify, or Render.
 
-
 ## Usage
 
-1. Use home page category buttons to navigate to specific product categories.
+1. Use the home page category buttons to navigate to specific product categories.
 
 2. Apply filters and subcategory options to narrow down results.
 
@@ -82,7 +83,7 @@ You can deploy the build/ folder on platforms like Vercel, Netlify, or Render.
 
 1. Connect to a backend API for dynamic product data.
 
-2. Add user authentication and persistent cart.
+2. Add user authentication and a persistent cart.
 
 3. Integrate payment gateways (Paystack, Flutterwave, Stripe).
 
